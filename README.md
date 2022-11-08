@@ -69,7 +69,7 @@ Correct Info: <div style="text-align: left"><img src="https://github.com/stipptr
 
 ### Test
 
-![Gif_Test]<"https://github.com/stipptracie/RoboAdvisor/blob/main/Images/AmazonLex.gif?raw=true">
+![Gif_Test](https://github.com/stipptracie/RoboAdvisor/blob/main/Images/AmazonLex.gif)
 
 ### Full Build
 
