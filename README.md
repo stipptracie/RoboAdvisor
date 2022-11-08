@@ -38,26 +38,26 @@ The bot stores this information and recommends a split of bonds (AGG) and/or sto
 ### Bot Set Up
 
 Slots:
-<div style="text-align: left"><img src="./images/slots.png" width="600" /></div>
+<div style="text-align: left"><img src="https://github.com/stipptracie/RoboAdvisor/blob/main/Images/slots.png?raw=true" width="600" /></div>
 
 Utterances:
-<div style="text-align: left"><img src="./images/utterances.png" width="600" /></div>
+<div style="text-align: left"><img src="https://github.com/stipptracie/RoboAdvisor/blob/main/Images/utterances.png?raw=true" width="600" /></div>
 
 
 ### Helper Functions
-<div style="text-align: left"><img src="./images/validation_function.png" width="600" /></div>
-<div style="text-align: left"><img src="./images/recommendation_function.png" width="600" /></div>
+<div style="text-align: left"><img src="https://github.com/stipptracie/RoboAdvisor/blob/main/Images/validation_function.png?raw=true" width="600" /></div>
+<div style="text-align: left"><img src="https://github.com/stipptracie/RoboAdvisor/blob/main/Images/recommendation_function.png?raw=true" width="600" /></div>
 
 
 ### Test Cases
 
-Incorrect Amount: <div style="text-align: left"><img src="./images/incorrectAmount.png" width="800" /></div>
+Incorrect Amount: <div style="text-align: left"><img src="https://github.com/stipptracie/RoboAdvisor/blob/main/Images/incorrectAmount.png?raw=true" width="800" /></div>
 
-Negative Age: <div style="text-align: left"><img src="./images/negativeAgeError.png" width="800" /></div>
+Negative Age: <div style="text-align: left"><img src="https://github.com/stipptracie/RoboAdvisor/blob/main/Images/negativeAgeError.png?raw=true" width="800" /></div>
 
-Too High of an Age: <div style="text-align: left"><img src="./images/ageError.png" width="800" /></div>
+Too High of an Age: <div style="text-align: left"><img src="https://github.com/stipptracie/RoboAdvisor/blob/main/Images/ageError.png?raw=true" width="800" /></div>
 
-Correct Info: <div style="text-align: left"><img src="./images/correctDialogue.png" width="500" /></div>
+Correct Info: <div style="text-align: left"><img src="https://github.com/stipptracie/RoboAdvisor/blob/main/Images/correctDialog.png?raw=true" width="500" /></div>
 
 
 ### Recommendation Display
@@ -69,7 +69,7 @@ Correct Info: <div style="text-align: left"><img src="./images/correctDialogue.p
 
 ### Test
 
-![Gif_Test](images/AmazonLex.gif)
+![Gif_Test](https://github.com/stipptracie/RoboAdvisor/blob/main/Images/AmazonLex.gif)
 
 ### Full Build
 
