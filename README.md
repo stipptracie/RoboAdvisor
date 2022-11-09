@@ -62,6 +62,7 @@ Correct Info: <div style="text-align: left"><img src="https://github.com/stipptr
 
 ### Recommendation Display
 
+Unsuccessful.
 
 ---
 
@@ -73,7 +74,7 @@ Correct Info: <div style="text-align: left"><img src="https://github.com/stipptr
 
 ### Full Build
 
-![Gif_Full](images/AmazonLexFull.gif)
+Despite multiple attempts to get the full build to run, the Lambda Function would not run through the Lex Chat Bot.  Tests were successful in Lambda.  More time is needed to troubleshoot.
 
 ---
 
